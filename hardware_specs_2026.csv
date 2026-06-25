@@ -1,4 +1,0 @@
-Component_ID,Model_Name,Power_Consumption_W,Weight_kg,Dimensions_cm,Installation_Type
-SW-2026-A1,CoreSwitch_Pro,150,4.2,44x25x4,Rack-Mount
-SW-2026-B2,EdgeSwitch_Lite,85,2.1,22x15x4,Wall-Mount
-PSU-2026-X,HighDensity_Power,500,6.5,44x40x8,Rack-Mount
